@@ -11,6 +11,9 @@ This is a simple chat bot, built using API.AI and Node.js, to generate a nutriti
 
 See the developer guide at [developers.viber.com](https://developers.viber.com/public-accounts/index.html#access) for more details.
 
+# Deploy to:
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 ### Steps
  1. Create a new agent in API.AI [api.ai](https://api.ai).
  1. Click on the project gear icon to see the project settings.
