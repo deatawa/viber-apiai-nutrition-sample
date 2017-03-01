@@ -15,17 +15,16 @@ See the developer guide at [developers.viber.com](https://developers.viber.com/p
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 ### Steps
- 1. Create a new agent in API.AI [api.ai](https://api.ai).
+ 1. Create a new agent in [api.ai](https://api.ai).
  1. Click on the project gear icon to see the project settings.
- 1. Select "Export and Import".
+ 1. Select "Export and Import". ![](img/API_AI_Import.png)
  1. Select "Restore from zip". Follow the directions to restore.
- 1. Select the `NutritionMaker.zip` file in this repository.
+ 1. Select the `ViberSampleAgent.zip` file in this repository.
  1. Deploy this app to your preferred hosting environment.
  1. Set the "Fulfillment" webhook URL to the hosting URL.
  1. Make sure all domains are turned off.
  1. Enable Viber in the API.AI integrations panel.
  1. Provide an invocation name for the action.
-
 
 ## References and How to report bugs
 * If you find any issues, please open a bug here on GitHub.
@@ -37,4 +36,4 @@ See [License](LICENSE.md).
 Your use of this sample is subject to, and by using or downloading the sample files you agree to comply with, the [Viber API Terms of Service](https://developers.viber.com/general/api-terms-of-service/index.html/).
 
 ## Community
-Viber/API.AI Developers community on [Gitter](https://gitter.im/viber/apiai-integration).
+Viber/API.AI developers community on [Gitter](https://gitter.im/viber/apiai-integration).
