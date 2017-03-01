@@ -25,8 +25,8 @@ See the developer guide at [developers.viber.com](https://developers.viber.com/p
 	 1. Edit `.env` with your Data.gov API key.
  1. Deploy this app to your preferred hosting environment.
  1. Set the "Fulfillment" webhook URL to `https://[App Name].herokuapp.com/hook`.
- 1. Make sure all domains are turned off.
  1. Enable Viber in the API.AI integrations panel.
+ 1. For both `meal.info` and  `nutrition.info` intents check the ‘Use webhook’ in the ‘Fulfillment’ section, and save the intent.
 
 ## References and How to report bugs
 If you find any issues with this sample, please open a bug here on GitHub.
