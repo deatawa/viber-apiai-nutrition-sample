@@ -1,6 +1,6 @@
 # Developing a Viber chatbot with API.AI and Node.js
 
-In this example we are building a simple Viber chat bot using [API.AI](https://api.ai) and Node.js. The final chatbot will generate nutrition responses for users based on the inputs they provide. The bot uses the data.gov [nutrition facts API](https://ndb.nal.usda.gov/ndb/) as its source.
+In this example we are building a simple Viber chatbot using [API.AI](https://api.ai) and Node.js. The final chatbot will generate nutrition responses for users based on the inputs they provide. The bot uses the data.gov [nutrition facts API](https://ndb.nal.usda.gov/ndb/) as its source.
 
 ## Setup instructions
 
